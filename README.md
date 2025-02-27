@@ -36,10 +36,14 @@ This project is a **Smart Home IoT application** integrated with **Google Assist
 ## Circuit Diagram
 ![Circuit Diagram](https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Circuit%20Diagram.png)
 
+## Implementation
+![Circuit Diagram](https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Smart%20Home%20%20(7).jpg)
 
 ## Google Home Interface
-![Circuit Diagram](https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Smart%20Home%20%20(2).jpg)
+![Google home](https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Smart%20Home%20%20(2).jpg)
 
 ## Sinric Pro Web Dashboard
-![Circuit Diagram](https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Smart%20Home%20%20(4).jpg)
+![SinricPro](https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Smart%20Home%20%20(4).jpg)
+
+
 
