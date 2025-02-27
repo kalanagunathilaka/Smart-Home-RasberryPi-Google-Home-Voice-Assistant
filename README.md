@@ -28,7 +28,8 @@ This project is a **Smart Home IoT application** integrated with **Google Assist
 ## Software Requirements
 
 - **Python 3**  
-- **GPIO Libraries** (for sensor data handling)  
+- **GPIO Libraries** (for sensor data handling)
+- **Google Home** (for google voice assistant)
 - **Custom Dashboard Interface** (for real-time monitoring and automation)  
 - **Visual Studio Code** (IDE for dashboard development)  
 - **React** (framework for dashboard frontend development)
