@@ -34,5 +34,6 @@ This project is a **Smart Home IoT application** integrated with **Google Assist
 - **React** (framework for dashboard frontend development)
 
 ## Circuit Diagram
+![Circuit Diagram](https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Circuit%20Diagram.png)
 
-https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Circuit%20Diagram.png
+
