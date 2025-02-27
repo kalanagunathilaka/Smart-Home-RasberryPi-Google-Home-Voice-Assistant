@@ -37,3 +37,8 @@ This project is a **Smart Home IoT application** integrated with **Google Assist
 ![Circuit Diagram](https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Circuit%20Diagram.png)
 
 
+## Google Home Interface
+![Circuit Diagram](https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Smart%20Home%20%20(2).jpg)
+
+
+
