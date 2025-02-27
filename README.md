@@ -32,3 +32,7 @@ This project is a **Smart Home IoT application** integrated with **Google Assist
 - **Custom Dashboard Interface** (for real-time monitoring and automation)  
 - **Visual Studio Code** (IDE for dashboard development)  
 - **React** (framework for dashboard frontend development)
+
+## Circuit Diagram
+
+https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Circuit%20Diagram.png
