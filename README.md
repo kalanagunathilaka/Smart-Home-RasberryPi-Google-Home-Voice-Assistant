@@ -50,6 +50,6 @@ This project is a **Smart Home IoT application** integrated with **Google Assist
 ![SinricPro](https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Smart%20Home%20%20(4).jpg)
 
 ## Custom Dashboard
-![Custom Dashboard](https://github.com/IN4300-Embedded-Systems-Project/B20_Group19/blob/main/Images/Custom.jpg)
+![Custom Dashboard](https://github.com/kalanagunathilaka/Smart-Home-RasberryPi-Google-Home-Voice-Assistant/blob/main/Images/dashboard.jpeg)
 
 
